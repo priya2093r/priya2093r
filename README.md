@@ -17,7 +17,7 @@
 Hi! I'm Priya R, a passionate frontend developer specializing in building robust web and mobile experiences using React, React Native, and modern JavaScript. I love solving challenging problems, learning new technologies, and bringing ideas to life—no matter how hard they seem!
 
 - 🌱 Always learning, always growing
-- 📸 Photography & 👩‍🌾 Farming enthusiast
+- 💻 Tech Enthusiast, 📸 Photography & 👩‍🌾 Farming enthusiast
 - 💡 Thrives on innovation and teamwork
 
 ---
