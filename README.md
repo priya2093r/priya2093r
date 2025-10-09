@@ -54,7 +54,7 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 
 ---
 
-### 🛡️ Repository Access Info
+### 🔧 Repository Access Info
 > ⚠️ Some of my repositories are **private** for security and intellectual property reasons.  
 > If you’d like to **view or collaborate** on a project, please **reach out via LinkedIn** for access.  
 > Public repositories are available for general viewing — source code downloads may be restricted.
