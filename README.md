@@ -4,7 +4,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQEPqYURC_uwBA/profile-displayphoto-crop_800_800/B56ZiTVI42HMAI-/0/1754818451404?e=1762992000&v=beta&t=rcDKw2Y2MbYbGR4ac54HkRPJPOD8iM8FyfQ1DIRKVyc" alt="Priya R GitHub Avatar" width="120" style="border-radius:90%">
 </p>
 
-<h1 align="center">Priya R — Technophile | Most Enthusiastic in This Tech World 🚀</h1>
+<h1 align="center">Priya R — Technophile🔥 | Exploring, creating, and growing in this tech world 🚀</h1>
 
 <p align="center">
   <strong>Software Developer (Frontend) | Coimbatore, India</strong>
@@ -34,9 +34,9 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 ### 🌟 Featured Projects
 
 **Air Quality Doctor**
-> BLE device integrated big project for USA. Used to measure AQI and generate PDF reports for users using BLE device.
+> BLE device integrated in a big project for USA. Used to measure AQI of the environment and generate PDF reports for users using BLE device.
 
-**Foofie Bot App**
+**Foodie Bot App**
 > Developed for restaurants—a chat app enabling seamless communication between waiters and customers.
 
 ---
@@ -54,7 +54,7 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 
 ---
 
-> “Technophile | Most Enthusiastic in This Tech World”
+> ✨ Exploring the endless world of technology.🌍
 
 ---
 
