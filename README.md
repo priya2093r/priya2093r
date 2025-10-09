@@ -1,7 +1,7 @@
 <!-- Profile README for Priya R -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/priya2093r" alt="Priya R GitHub Avatar" width="120" style="border-radius:50%">
+  <img src="[https://avatars.githubusercontent.com/priya2093r](https://media.licdn.com/dms/image/v2/D5603AQEPqYURC_uwBA/profile-displayphoto-crop_800_800/B56ZiTVI42HMAI-/0/1754818451404?e=1762992000&v=beta&t=rcDKw2Y2MbYbGR4ac54HkRPJPOD8iM8FyfQ1DIRKVyc)" alt="Priya R GitHub Avatar" width="120" style="border-radius:50%">
 </p>
 
 <h1 align="center">Priya R — Technophile | Most Enthusiastic in This Tech World 🚀</h1>
