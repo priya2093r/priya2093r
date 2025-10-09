@@ -34,7 +34,7 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 ### 🌟 Featured Projects
 
 **Air Quality Doctor**
-> BLE device integrated big project for us. Used to measure AQI and generate PDF reports for users.
+> BLE device integrated big project for USA. Used to measure AQI and generate PDF reports for users using BLE device.
 
 **Foofie Bot App**
 > Developed for restaurants—a chat app enabling seamless communication between waiters and customers.
