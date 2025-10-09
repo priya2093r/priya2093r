@@ -26,7 +26,7 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 
 - **Core:** React Native, React, JavaScript, TypeScript, Next.js, Redux Toolkit, React Context API
 - **Web:** HTML, CSS, Tailwind CSS, React Query, RESTful APIs, WebSockets
-- **Backend & Deployment:** Firebase, App Deployment
+- **Backend & Deployment:** Firebase, App Deployment (Play store & App store), Website deployment (Netlify, Vercel)
 - **Workflow:** Agile / Scrum, Version Control (Git & GitHub)
 
 ---
