@@ -76,9 +76,14 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect with Me LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20R-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/priya-r-388445217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+### 🔗 Connect with Me on GitHub
+
+[![GitHub](https://github.com/priya2093r)
 
 ---
 
