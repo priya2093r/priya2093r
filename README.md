@@ -83,7 +83,7 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 
 ### 🔗 Connect with Me on GitHub
 
-[![GitHub](https://github.com/priya2093r)
+[![GitHub](https://img.shields.io/badge/LinkedIn-Priya%20R-blue?logo=linkedin&style=flat-square)](https://github.com/priya2093r)
 
 ---
 
