@@ -57,14 +57,14 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 
 **Share 360(Live on Play store)**
 
-> DDeveloped a reward-based mobile application where users earn points by completing assigned tasks and activities.
-> DImplemented task management features allowing users to track completed tasks and accumulated reward points.
-> DDesigned secure wallet functionality to convert earned points into withdrawable amounts.
-> DIntegrated Stripe payment gateway to enable seamless withdrawal and payout processing.
-> DImplemented real-time balance updates and transaction history tracking.
-> DDeveloped responsive and user-friendly UI screens to enhance user engagement.
-> DIntegrated push notifications to notify users about task updates, rewards, and withdrawal status.
-> DEnsured secure API integration and proper validation for payment and transaction processes.
+> Developed a reward-based mobile application where users earn points by completing assigned tasks and activities.
+> Implemented task management features allowing users to track completed tasks and accumulated reward points.
+> Designed secure wallet functionality to convert earned points into withdrawable amounts.
+> Integrated Stripe payment gateway to enable seamless withdrawal and payout processing.
+> Implemented real-time balance updates and transaction history tracking.
+> Developed responsive and user-friendly UI screens to enhance user engagement.
+> Integrated push notifications to notify users about task updates, rewards, and withdrawal status.
+> Ensured secure API integration and proper validation for payment and transaction processes.
 
 
 ---
