@@ -34,10 +34,38 @@ Hi! I'm Priya R, a passionate frontend developer specializing in building robust
 ### 🌟 Featured Projects
 
 **Air Quality Doctor**
-> BLE device integrated in a big project for USA. Used to measure AQI of the environment and generate PDF reports for users using BLE device.
+> Developed a React Native mobile application integrated with a BLE-based IoT air quality monitoring device.
+> Implemented Bluetooth Low Energy (BLE) communication to start and pause real-time air quality data recording from the device.
+> Enabled seamless data synchronization between IoT hardware and mobile application.
+> Captured and displayed environmental parameters including Temperature, Humidity, and PM (Particulate Matter) values.
+> Integrated location services to associate recorded air quality data with user location.
+> Implemented push notifications to provide status updates and alerts to users.
+> Developed functionality to generate and download measurement reports in PDF format.
+> Managed runtime permissions including Bluetooth, Location, and File Storage access.
+> Ensured stable device connectivity and handled disconnection/reconnection scenarios.
+> Integrated OTA (Over-the-Air) firmware update mechanism to securely upgrade IoT device firmware via BLE communication.
 
 **Foodie Bot App**
-> Developed for restaurants—a chat app enabling seamless communication between waiters and customers.
+> Developed a real-time restaurant ordering application enabling live chat communication between customers and waiters.
+> Implemented WebSocket live chat functionality to ensure instant and seamless message exchange.
+> Designed responsive and user-friendly screens for smooth ordering experience across different device sizes.
+> Integrated push notifications to alert waiters and customers about new messages and order updates.
+> Developed order placement functionality allowing customers to place and modify orders directly through chat.
+> Ensured real-time synchronization of order status between restaurant staff and customers.
+> Handled state management and optimized message rendering for smooth performance during live interactions.
+> Collaborated with backend team to integrate APIs and maintain secure communication channels.
+
+**Share 360(Live on Play store)**
+
+> DDeveloped a reward-based mobile application where users earn points by completing assigned tasks and activities.
+> DImplemented task management features allowing users to track completed tasks and accumulated reward points.
+> DDesigned secure wallet functionality to convert earned points into withdrawable amounts.
+> DIntegrated Stripe payment gateway to enable seamless withdrawal and payout processing.
+> DImplemented real-time balance updates and transaction history tracking.
+> DDeveloped responsive and user-friendly UI screens to enhance user engagement.
+> DIntegrated push notifications to notify users about task updates, rewards, and withdrawal status.
+> DEnsured secure API integration and proper validation for payment and transaction processes.
+
 
 ---
 
